@@ -2,7 +2,7 @@
  * Copyright (c) 2018. 6小h
  */
 
-package com.example.hany.coolweather;
+package com.example.hany.coolweather.util;
 
 import android.util.Log;
 
